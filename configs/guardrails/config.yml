@@ -1,0 +1,7 @@
+# NeMo Guardrails 0.25-compatible local input rail configuration.
+colang_version: "1.0"
+
+rails:
+  input:
+    flows:
+      - screen sql agent input

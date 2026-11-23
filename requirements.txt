@@ -1,0 +1,28 @@
+# Core application
+python-dotenv
+pydantic
+pydantic-settings
+
+# Gemini API
+google-genai
+
+# Agent workflow
+langgraph
+langchain-core
+
+# Database
+sqlalchemy
+
+# SQL security
+sqlglot
+
+# Guardrails
+nemoguardrails
+
+# Dashboard and visualization
+streamlit
+plotly
+
+# Testing
+pytest
+pytest-mock
